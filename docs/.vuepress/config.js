@@ -7,7 +7,7 @@ module.exports = {
   ],
   themeConfig: {
     logo: '/osc_icon.jpg',
-    repo: 'scutosc/MSCTutorial',
+    repo: 'scutosc/Lab',
     editLinks: true,
     docsBranch: 'main',
     docsDir: 'docs',
