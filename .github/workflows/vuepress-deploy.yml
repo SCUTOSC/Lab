@@ -95,7 +95,7 @@ jobs:
         run: npm run docs:build
       
       - name: Set CNAME
-        run: echo 'msctutorial.scutosc.cn' > ./docs/.vuepress/dist/CNAME
+        run: echo 'lab.scutosc.cn' > ./docs/.vuepress/dist/CNAME
       
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
